@@ -1,1 +1,1 @@
-Doing git challenges on FCC
+Hello world challenge on FCC
